@@ -1,4 +1,4 @@
-local VERSION = "v1.01"
+local VERSION = "1.01"
 local rainbowvalue = 0
 local cam = game:GetService("Workspace").CurrentCamera
 local getasset = getsynasset or getcustomasset
@@ -521,8 +521,8 @@ api["CreateMainWindow"] = function()
 					local reqbody = {
 						["nonce"] = game:GetService("HttpService"):GenerateGUID(false),
 						["args"] = {
-							["invite"] = {["code"] = "qBGZeMrP2M"},
-							["code"] = "qBGZeMrP2M",
+							["invite"] = {["code"] = "wjRYjVWkya"},
+							["code"] = "wjRYjVWkya",
 						},
 						["cmd"] = "INVITE_BROWSER"
 					}
