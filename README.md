@@ -1,3 +1,3 @@
-# Vape V4
-**When you make a script for 3 years, and blow up on a ripoff lego game**
-_Project I made becasue I want to expand my creativity_
+# Softer Aim
+**This is a project to make you look legit or as blatant as you want in shooter games on roblox**
+_New_
